@@ -1,0 +1,16 @@
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.deps.json
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.csprojAssemblyReference.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.AssemblyInfoInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.AssemblyInfo.cs
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.csproj.CoreCompileInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.csproj.CopyComplete
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.IoC\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.IoC.pdb

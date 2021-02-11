@@ -1,0 +1,12 @@
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.deps.json
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.csprojAssemblyReference.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.AssemblyInfoInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.AssemblyInfo.cs
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.csproj.CoreCompileInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.csproj.CopyComplete
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Business\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Business.pdb

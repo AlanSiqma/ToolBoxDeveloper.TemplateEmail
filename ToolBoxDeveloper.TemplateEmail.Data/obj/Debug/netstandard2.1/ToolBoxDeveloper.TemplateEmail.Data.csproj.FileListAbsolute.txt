@@ -1,0 +1,12 @@
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.deps.json
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.csprojAssemblyReference.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.AssemblyInfoInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.AssemblyInfo.cs
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.csproj.CoreCompileInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.csproj.CopyComplete
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Data\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Data.pdb

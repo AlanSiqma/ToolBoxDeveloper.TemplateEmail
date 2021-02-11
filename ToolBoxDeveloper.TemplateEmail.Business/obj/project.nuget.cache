@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpFjduooxFkNNgPPTGgVeNxGpM5/gzTan5h3dx6+k64GJ/7XgzB/lxedHJ/YhNCOGsiX2rdIJPBlIqX5PHIrRQ==",
+  "success": true,
+  "projectFilePath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Business\\ToolBoxDeveloper.TemplateEmail.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mongodb.bson\\2.11.6\\mongodb.bson.2.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}

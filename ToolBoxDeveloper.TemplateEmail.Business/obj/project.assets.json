@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "MongoDB.Bson/2.11.6": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MongoDB.Bson.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MongoDB.Bson.dll": {}
+        }
+      },
+      "ToolBoxDeveloper.TemplateEmail.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MongoDB.Bson": "2.11.6"
+        },
+        "compile": {
+          "bin/placeholder/ToolBoxDeveloper.TemplateEmail.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToolBoxDeveloper.TemplateEmail.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MongoDB.Bson/2.11.6": {
+      "sha512": "JMxPQvz61IW+AFDWEkl4Dwswc4Eg6Zrii65T9R6VMHwdSdcb1eseHdwIyfjyf776vCmDVJbpSHW8075A6tTqqg==",
+      "type": "package",
+      "path": "mongodb.bson/2.11.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "lib/net452/MongoDB.Bson.dll",
+        "lib/net452/MongoDB.Bson.xml",
+        "lib/netstandard1.5/MongoDB.Bson.dll",
+        "lib/netstandard1.5/MongoDB.Bson.xml",
+        "lib/netstandard2.0/MongoDB.Bson.dll",
+        "lib/netstandard2.0/MongoDB.Bson.xml",
+        "mongodb.bson.2.11.6.nupkg.sha512",
+        "mongodb.bson.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "ToolBoxDeveloper.TemplateEmail.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ToolBoxDeveloper.TemplateEmail.Domain/ToolBoxDeveloper.TemplateEmail.Domain.csproj",
+      "msbuildProject": "../ToolBoxDeveloper.TemplateEmail.Domain/ToolBoxDeveloper.TemplateEmail.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "ToolBoxDeveloper.TemplateEmail.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Business\\ToolBoxDeveloper.TemplateEmail.Business.csproj",
+      "projectName": "ToolBoxDeveloper.TemplateEmail.Business",
+      "projectPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Business\\ToolBoxDeveloper.TemplateEmail.Business.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "G:\\nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\ToolBoxDeveloper.TemplateEmail.Domain.csproj": {
+              "projectPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\ToolBoxDeveloper.TemplateEmail.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

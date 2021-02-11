@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolBoxDeveloper.TemplateEmail.DistributedService", "ToolBoxDeveloper.TemplateEmail.DistributedService\ToolBoxDeveloper.TemplateEmail.DistributedService.csproj", "{FFF621CF-8F20-4640-B397-8055E51D4374}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-UI", "01-UI", "{562738FB-94C2-4A5E-B0FF-E77D77D95D4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-DistributdService", "02-DistributdService", "{ABF4A556-38C5-44A1-B3CE-E3B3D444EA89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Business", "03-Business", "{C1D36F71-59E0-4C82-82DC-2B0CD7E0DCAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Domain", "04-Domain", "{CC3E5118-085B-44CC-9D17-8B7604198ACA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Infra", "05-Infra", "{20A5DE29-A3F6-4B28-9276-CBB94E4F7D80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Package", "06-Package", "{1FB8652B-6177-4399-B4DF-A78AD740A7DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.01-Core", "06.01-Core", "{51716CA7-DD8A-46CD-AEA1-17190AB72B1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.02-Samples", "06.02-Samples", "{78E4397F-F6DC-42D9-B755-548B0FA4BC14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolBoxDeveloper.TemplateEmail.Domain", "ToolBoxDeveloper.TemplateEmail.Domain\ToolBoxDeveloper.TemplateEmail.Domain.csproj", "{B7C7114C-5F4D-46F2-A89A-747D80F5420D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolBoxDeveloper.TemplateEmail.Data", "ToolBoxDeveloper.TemplateEmail.Data\ToolBoxDeveloper.TemplateEmail.Data.csproj", "{3F722D5B-8BDB-4402-AB01-5C6D1A0935EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolBoxDeveloper.TemplateEmail.IoC", "ToolBoxDeveloper.TemplateEmail.IoC\ToolBoxDeveloper.TemplateEmail.IoC.csproj", "{7639577A-1377-4723-BE6B-E38C988E0B83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolBoxDeveloper.TemplateEmail.Business", "ToolBoxDeveloper.TemplateEmail.Business\ToolBoxDeveloper.TemplateEmail.Business.csproj", "{B2C54D96-E15F-4AA2-9B0F-68A59EF9E9D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolBoxDeveloper.TemplateEmail.Package", "ToolBoxDeveloper.TemplateEmail.Package\ToolBoxDeveloper.TemplateEmail.Package.csproj", "{E4D8A6B8-7704-422C-A76C-651EAF070C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBoxDeveloper.TemplateEmail.SampleNF", "ToolBoxDeveloper.TemplateEmail.Sample\ToolBoxDeveloper.TemplateEmail.SampleNF.csproj", "{DA279A48-EFAF-4B49-8BB3-4EE3E4C83CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBoxDeveloper.TemplateEmail.MVC", "ToolBoxDeveloper.TemplateEmail.MVC\ToolBoxDeveloper.TemplateEmail.MVC.csproj", "{7147D460-D62E-422E-86FE-976F00931947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF621CF-8F20-4640-B397-8055E51D4374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF621CF-8F20-4640-B397-8055E51D4374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF621CF-8F20-4640-B397-8055E51D4374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF621CF-8F20-4640-B397-8055E51D4374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C7114C-5F4D-46F2-A89A-747D80F5420D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C7114C-5F4D-46F2-A89A-747D80F5420D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C7114C-5F4D-46F2-A89A-747D80F5420D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C7114C-5F4D-46F2-A89A-747D80F5420D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F722D5B-8BDB-4402-AB01-5C6D1A0935EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F722D5B-8BDB-4402-AB01-5C6D1A0935EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F722D5B-8BDB-4402-AB01-5C6D1A0935EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F722D5B-8BDB-4402-AB01-5C6D1A0935EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7639577A-1377-4723-BE6B-E38C988E0B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7639577A-1377-4723-BE6B-E38C988E0B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7639577A-1377-4723-BE6B-E38C988E0B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7639577A-1377-4723-BE6B-E38C988E0B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C54D96-E15F-4AA2-9B0F-68A59EF9E9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C54D96-E15F-4AA2-9B0F-68A59EF9E9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C54D96-E15F-4AA2-9B0F-68A59EF9E9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C54D96-E15F-4AA2-9B0F-68A59EF9E9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D8A6B8-7704-422C-A76C-651EAF070C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D8A6B8-7704-422C-A76C-651EAF070C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D8A6B8-7704-422C-A76C-651EAF070C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D8A6B8-7704-422C-A76C-651EAF070C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA279A48-EFAF-4B49-8BB3-4EE3E4C83CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA279A48-EFAF-4B49-8BB3-4EE3E4C83CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA279A48-EFAF-4B49-8BB3-4EE3E4C83CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA279A48-EFAF-4B49-8BB3-4EE3E4C83CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7147D460-D62E-422E-86FE-976F00931947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7147D460-D62E-422E-86FE-976F00931947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7147D460-D62E-422E-86FE-976F00931947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7147D460-D62E-422E-86FE-976F00931947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FFF621CF-8F20-4640-B397-8055E51D4374} = {ABF4A556-38C5-44A1-B3CE-E3B3D444EA89}
+		{51716CA7-DD8A-46CD-AEA1-17190AB72B1B} = {1FB8652B-6177-4399-B4DF-A78AD740A7DE}
+		{78E4397F-F6DC-42D9-B755-548B0FA4BC14} = {1FB8652B-6177-4399-B4DF-A78AD740A7DE}
+		{B7C7114C-5F4D-46F2-A89A-747D80F5420D} = {CC3E5118-085B-44CC-9D17-8B7604198ACA}
+		{3F722D5B-8BDB-4402-AB01-5C6D1A0935EE} = {20A5DE29-A3F6-4B28-9276-CBB94E4F7D80}
+		{7639577A-1377-4723-BE6B-E38C988E0B83} = {20A5DE29-A3F6-4B28-9276-CBB94E4F7D80}
+		{B2C54D96-E15F-4AA2-9B0F-68A59EF9E9D1} = {C1D36F71-59E0-4C82-82DC-2B0CD7E0DCAE}
+		{E4D8A6B8-7704-422C-A76C-651EAF070C85} = {51716CA7-DD8A-46CD-AEA1-17190AB72B1B}
+		{DA279A48-EFAF-4B49-8BB3-4EE3E4C83CFA} = {78E4397F-F6DC-42D9-B755-548B0FA4BC14}
+		{7147D460-D62E-422E-86FE-976F00931947} = {562738FB-94C2-4A5E-B0FF-E77D77D95D4A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893677DA-8B70-4F62-90F4-5329A1DDB80A}
+	EndGlobalSection
+EndGlobal

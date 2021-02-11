@@ -1,0 +1,3 @@
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Domain.AssemblyInfoInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Domain.AssemblyInfo.cs
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Domain.csproj.CoreCompileInputs.cache

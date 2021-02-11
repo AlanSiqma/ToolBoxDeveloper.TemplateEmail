@@ -1,0 +1,9 @@
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.deps.json
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\bin\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.csprojAssemblyReference.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.AssemblyInfoInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.AssemblyInfo.cs
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.csproj.CoreCompileInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Domain\obj\Debug\netstandard2.1\ToolBoxDeveloper.TemplateEmail.Domain.pdb

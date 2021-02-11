@@ -1,0 +1,47 @@
+﻿@model ToolBoxDeveloper.TemplateEmail.Domain.Dto.EmailTemplateDto
+@{
+    ViewData["Title"] = "Create";
+}
+<h1>Criar</h1>
+<h4>Templar</h4>
+<hr />
+<div class="row">
+    <div class="col-md">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Conteudo Body</label>
+                @Html.TextAreaFor(x => x.Body, new { @class = "form-control summernote-site" })
+                <span asp-validation-for="Body" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <a asp-action="Index" class="btn btn-info btn-site">
+                        <i class="fa fa-backward" aria-hidden="true"></i>
+                        Voltar
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <button type="submit" class="btn btn-success btn-site">
+                        <i class="fa fa-floppy-o" aria-hidden="true"></i>
+                        Salvar
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.summernote-site').summernote();
+        });
+    </script>
+}

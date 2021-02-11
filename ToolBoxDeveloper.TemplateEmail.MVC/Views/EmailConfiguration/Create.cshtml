@@ -1,0 +1,51 @@
+﻿@model ToolBoxDeveloper.TemplateEmail.Domain.Dto.EmailConfigurationDto
+@{
+    ViewData["Title"] = "Create";
+}
+<h1>Criar</h1>
+<h4>Configurações</h4>
+<hr />
+<div class="jumbotron">
+    <form asp-action="Create">
+        <div class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="col-md-4">
+                <label class="control-label">Host</label>
+                <input asp-for="Host" class="form-control" />
+                <span asp-validation-for="Host" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label class="control-label">Porta</label>
+                <input asp-for="Port" class="form-control" />
+                <span asp-validation-for="Port" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label class="control-label">Email</label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label class="control-label">Senha</label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <a asp-action="Index" class="btn btn-info btn-site">
+                    <i class="fa fa-backward" aria-hidden="true"></i>
+                    Voltar
+                </a>
+            </div>
+            <div class="col-md-4">
+                <button type="submit" class="btn btn-success btn-site">
+                    <i class="fa fa-floppy-o" aria-hidden="true"></i>
+                    Salvar
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

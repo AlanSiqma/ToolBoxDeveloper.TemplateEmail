@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Data\\ToolBoxDeveloper.TemplateEmail.Data.csproj": {}
+  },
+  "projects": {
+    "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Data\\ToolBoxDeveloper.TemplateEmail.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Data\\ToolBoxDeveloper.TemplateEmail.Data.csproj",
+        "projectName": "ToolBoxDeveloper.TemplateEmail.Data",
+        "projectPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Data\\ToolBoxDeveloper.TemplateEmail.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\ToolBoxDeveloper.TemplateEmail.Domain.csproj": {
+                "projectPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\ToolBoxDeveloper.TemplateEmail.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\ToolBoxDeveloper.TemplateEmail.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\ToolBoxDeveloper.TemplateEmail.Domain.csproj",
+        "projectName": "ToolBoxDeveloper.TemplateEmail.Domain",
+        "projectPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\ToolBoxDeveloper.TemplateEmail.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "G:\\source\\ToolBoxDeveloper\\ToolBoxDeveloper.TemplateEmail\\ToolBoxDeveloper.TemplateEmail.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

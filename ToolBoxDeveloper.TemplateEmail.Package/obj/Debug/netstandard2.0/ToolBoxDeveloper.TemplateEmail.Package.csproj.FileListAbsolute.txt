@@ -1,0 +1,9 @@
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\bin\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.deps.json
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\bin\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\bin\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.pdb
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.csprojAssemblyReference.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.AssemblyInfoInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.AssemblyInfo.cs
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.csproj.CoreCompileInputs.cache
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.dll
+G:\source\ToolBoxDeveloper\ToolBoxDeveloper.TemplateEmail\ToolBoxDeveloper.TemplateEmail.Package\obj\Debug\netstandard2.0\ToolBoxDeveloper.TemplateEmail.Package.pdb
